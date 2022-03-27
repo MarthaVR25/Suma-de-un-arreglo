@@ -9,8 +9,6 @@ if num < 1000:
 
   print("Introduce los elementos del array: ")
 
-else:
-		print("Opción inválida")
 
 for n in range(num):
   numbers = int(input())
